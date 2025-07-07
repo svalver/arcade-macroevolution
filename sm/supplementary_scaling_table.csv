@@ -1,0 +1,71 @@
+Main Genre,Subgenre,Category ID,Num Games,Scaling Exponent a,Std Error a,Trait Diversity Exponent b (ROM),Std Error b (ROM),Trait Diversity Exponent b (CPU),Std Error b (CPU),Bootleg Ratio,Collaboration Ratio,Collapse Classification
+ALL,ALL,Global,7822,0.303,0.003,0.972,0.001,0.757,0.001,,,NA
+Arcade,Pinball,24,50,0.374,0.025,0.954,0.042,0.874,0.047,0.067,0.933,Resilient
+Ball & Paddle,Breakout,13,135,0.352,0.017,0.789,0.016,0.734,0.014,0.421,0.579,Resilient
+Ball & Paddle,Jump and Touch,9,23,0.473,0.043,0.365,0.015,0.356,0.018,0.091,0.909,Resilient
+Driving,1st Person,4,89,0.178,0.026,1.898,0.056,1.473,0.049,0.0,1.0,Resilient
+Driving,Boat,44,20,0.305,0.038,1.01,0.198,2.705,0.428,0.0,1.0,Resilient
+Driving,Misc.,81,11,0.827,0.024,0.948,0.06,0.948,0.06,,,Resilient
+Driving,Motorbike,55,88,0.315,0.035,1.19,0.025,1.085,0.024,0.25,0.75,Resilient
+Driving,Plane,74,13,0.114,0.092,1.184,0.194,1.057,0.129,,,Resilient
+Driving,Race,1,114,0.257,0.041,0.934,0.014,0.722,0.009,0.091,0.909,Resilient
+Driving,Race (chase view),37,354,0.197,0.027,1.949,0.017,1.886,0.016,0.129,0.871,Resilient
+Driving,Race (chase view) Bike,89,9,-0.045,0.089,6.596,0.957,6.596,0.957,,,Resilient
+Driving,Race 1st Person,63,67,0.058,0.072,2.356,0.049,2.276,0.045,0.0,1.0,Resilient
+Driving,Race Bike,66,11,0.47,0.091,0.787,0.14,0.528,0.104,0.0,1.0,Resilient
+Driving,Race Track,5,49,0.43,0.026,0.804,0.053,0.847,0.046,0.5,0.5,Resilient
+Driving,Truck Guide,92,5,-0.0,0.0,-6.631,inf,-0.0,0.0,,,Resilient
+Fighter,2.5D,78,486,0.4,0.015,1.742,0.034,1.499,0.018,0.234,0.766,Resilient
+Fighter,2D,62,88,0.163,0.034,1.231,0.073,1.249,0.067,0.111,0.889,Resilient
+Fighter,3D,85,27,-0.238,0.048,7.251,0.567,4.439,0.35,,,Resilient
+Fighter,Field,23,19,0.296,0.071,0.509,0.049,0.483,0.032,0.0,1.0,Resilient
+Fighter,Misc.,77,8,0.515,0.336,1.555,0.273,0.784,0.11,1.0,0.0,Collapsing
+Fighter,Versus,68,1015,0.056,0.02,2.804,0.024,2.121,0.017,0.058,0.942,Resilient
+Fighter,Versus Co-op,82,36,-0.035,0.11,2.423,0.272,1.921,0.146,0.0,1.0,Resilient
+Fighter,Vertical,54,27,0.287,0.032,1.034,0.053,1.021,0.056,0.0,1.0,Resilient
+Maze,Ball Guide,69,8,0.252,0.042,0.916,0.019,0.916,0.019,0.0,1.0,Resilient
+Maze,Blocks,51,13,0.359,0.105,1.271,0.162,1.121,0.136,,,Resilient
+Maze,Change Surface,53,8,0.176,0.022,0.706,0.162,0.589,0.122,0.0,1.0,Resilient
+Maze,Collect,10,236,0.326,0.017,0.637,0.015,0.627,0.012,0.76,0.24,Collapsing
+Maze,Collect & Put,48,12,0.344,0.067,0.438,0.148,0.489,0.154,0.429,0.571,Resilient
+Maze,Cross,38,16,0.135,0.034,0.477,0.114,0.538,0.09,0.778,0.222,Collapsing
+Maze,Defeat Enemies,25,21,0.232,0.031,0.682,0.039,0.67,0.032,0.5,0.5,Resilient
+Maze,Digging,39,39,0.367,0.05,0.643,0.041,0.613,0.033,0.429,0.571,Resilient
+Maze,Driving,20,60,0.303,0.032,0.455,0.018,0.425,0.015,0.579,0.421,Collapsing
+Maze,Escape,28,18,0.281,0.064,0.875,0.059,0.864,0.077,0.2,0.8,Resilient
+Maze,Fighter,45,34,0.402,0.034,0.908,0.066,0.858,0.053,,,Resilient
+Maze,Move and Sort,33,14,0.316,0.076,0.522,0.072,0.683,0.057,1.0,0.0,Collapsing
+Maze,Outline,34,30,-0.463,0.318,2.967,0.294,2.468,0.249,1.0,0.0,Collapsing
+Maze,Paint,41,18,0.0,0.0,4.565,0.798,0.0,0.0,0.111,0.889,Resilient
+Maze,Shooter Large,49,85,0.384,0.064,0.934,0.042,0.845,0.034,0.0,1.0,Resilient
+Maze,Shooter Small,6,88,0.277,0.036,0.468,0.021,0.441,0.02,0.545,0.455,Collapsing
+Maze,Surround,3,15,0.327,0.115,0.196,0.043,0.172,0.038,0.0,1.0,Resilient
+Platform,Fighter,72,22,0.388,0.035,0.951,0.107,1.036,0.105,0.0,1.0,Resilient
+Platform,Fighter Scrolling,70,244,0.336,0.018,1.312,0.053,1.148,0.052,0.368,0.632,Resilient
+Platform,Run Jump,18,388,0.3,0.013,0.813,0.014,0.756,0.012,0.426,0.574,Resilient
+Platform,"Run, Jump & Scrolling",40,105,0.271,0.026,1.027,0.034,0.889,0.033,0.667,0.333,Collapsing
+Platform,Shooter,57,17,0.292,0.038,0.687,0.11,0.721,0.126,,,Resilient
+Platform,Shooter Scrolling,32,283,0.269,0.017,1.156,0.033,0.988,0.033,0.226,0.774,Resilient
+Shooter,1st Person,58,47,0.288,0.083,0.918,0.06,1.299,0.097,0.067,0.933,Resilient
+Shooter,3rd Person,19,129,0.439,0.036,1.181,0.015,0.89,0.014,0.25,0.75,Resilient
+Shooter,Command,15,30,0.375,0.019,0.604,0.038,0.592,0.032,0.556,0.444,Collapsing
+Shooter,Driving,65,7,0.335,0.051,2.587,0.296,2.09,0.045,,,Resilient
+Shooter,Driving (chase view),75,44,0.228,0.071,1.922,0.097,2.047,0.093,0.0,1.0,Resilient
+Shooter,Driving 1st Person,43,17,0.372,0.04,0.89,0.086,1.041,0.09,0.2,0.8,Resilient
+Shooter,Driving Horizontal,56,21,0.184,0.085,2.223,0.197,2.119,0.183,0.091,0.909,Resilient
+Shooter,Driving Vertical,31,71,0.213,0.032,0.991,0.033,1.045,0.034,0.231,0.769,Resilient
+Shooter,Field,7,180,0.231,0.024,0.567,0.023,0.533,0.018,0.333,0.667,Resilient
+Shooter,Flying,0,75,0.29,0.023,0.681,0.037,0.617,0.033,0.143,0.857,Resilient
+Shooter,Flying (chase view),47,63,0.387,0.034,0.951,0.051,0.917,0.044,0.091,0.909,Resilient
+Shooter,Flying 1st Person,14,80,0.177,0.044,0.629,0.019,0.651,0.018,0.5,0.5,Resilient
+Shooter,Flying Diagonal,52,10,0.197,0.002,0.76,0.068,0.547,0.024,0.0,1.0,Resilient
+Shooter,Flying Horizontal,26,388,0.257,0.011,1.064,0.018,1.039,0.017,0.444,0.556,Resilient
+Shooter,Flying Vertical,21,835,0.299,0.011,1.36,0.008,1.111,0.007,0.052,0.948,Resilient
+Shooter,Gallery,8,510,0.231,0.015,0.433,0.007,0.44,0.008,0.616,0.384,Collapsing
+Shooter,Gun,12,445,0.248,0.027,2.296,0.016,2.28,0.017,0.015,0.985,Resilient
+Shooter,Misc.,29,35,0.36,0.029,0.523,0.042,0.549,0.042,0.0,1.0,Resilient
+Shooter,Misc. Horizontal,35,27,0.226,0.015,0.787,0.039,0.801,0.038,1.0,0.0,Collapsing
+Shooter,Misc. Vertical,50,27,0.3,0.051,0.998,0.112,0.941,0.101,0.0,1.0,Resilient
+Shooter,Tank Driving,30,10,0.39,0.108,0.457,0.09,0.716,0.21,,,Resilient
+Shooter,Versus,2,28,0.388,0.054,0.244,0.037,0.284,0.052,0.0,1.0,Resilient
+Shooter,Walking,46,171,0.294,0.022,1.136,0.041,1.09,0.035,0.444,0.556,Resilient
