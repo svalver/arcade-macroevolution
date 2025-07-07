@@ -16,7 +16,7 @@ This figure summarizes the main findings of the paper.
 
 ## 📂 Repository Contents
 
-- `data/`: Cleaned arcade dataset (`arcade.csv`) and compressed MAME metadata (`database.xml.zip`)
+- `data/`: Cleaned arcade dataset (`arcade.csv`) and compressed raw MAME metadata (`database.xml.zip`)
 - `code/`: Python notebooks for figure generation
 - `sm/`: Supplementary plots from the paper
 
@@ -24,8 +24,8 @@ This figure summarizes the main findings of the paper.
 
 1. Install Python 3 and the following packages:  
    `pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`, `jupyter`
-2. Open the notebook:  
-   `notebooks/analysis_figures.ipynb`
+2. Open the notebook for each figure, e.g:   
+   `code/fig1.ipynb`
 
 ## 📜 License
 
