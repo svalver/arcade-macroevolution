@@ -8,6 +8,12 @@ Published in *Evolutionary Human Sciences* (forthcoming)
 
 We analyze over 7,000 arcade video games using structured metadata from the MAME emulator project (https://www.mamedev.org) to study how cultural genres emerge, evolve, and collapse over time.
 
+## 📊 Graphical Abstract
+
+This figure summarizes the main findings of the paper.
+
+![Graphical abstract: evolution and collapse of arcade genres](images/graphical_abstract.jpg)
+
 ## 📂 Repository Contents
 
 - `data/`: Cleaned arcade dataset (`arcade.csv`) and compressed MAME metadata (`database.xml.zip`)
