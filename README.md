@@ -10,7 +10,7 @@ We analyze over 7,000 arcade video games using structured metadata from the MAME
 
 ## 📊 Graphical Abstract
 
-This figure summarizes the main findings of the paper.
+This figure summarizes the main findings of our paper.
 
 ![Graphical abstract: evolution and collapse of arcade genres](images/graphical_abstract.jpg)
 
