@@ -4,7 +4,7 @@ This repository contains data and code for the paper:
 
 **"The Cultural Macroevolution of Arcade Video Games: Innovation, Collaboration, and Collapse"**  
 _Sergi Valverde, Blai Vidiella, Andrej Spiridonov, and R. Alexander Bentley_  
-[Published in *Evolutionary Human Sciences*](https://www.cambridge.org/core/journals/evolutionary-human-sciences/article/cultural-macroevolution-of-arcade-video-games-innovation-collaboration-and-collapse/B3FC4F20D03368F24E47553FA0E8173A)
+[Published in *Evolutionary Human Sciences*](https://www.cambridge.org/core/journals/evolutionary-human-sciences/article/cultural-macroevolution-of-arcade-video-games-innovation-collaboration-and-collapse/B3FC4F20D03368F24E47553FA0E8173A?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark)
 
 We analyze over 7,000 arcade video games using structured metadata from the MAME emulator project (https://www.mamedev.org) to study how cultural genres emerge, evolve, and collapse over time.
 
