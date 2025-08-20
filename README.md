@@ -35,4 +35,4 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 
 If you use this code or data, please cite:
 
-> Valverde, S., Vidiella, B., Spiridonov, A., & Bentley, R.A. (2025). *The Cultural Macroevolution of Arcade Video Games: Innovation, Collaboration, and Collapse*. Evolutionary Human Sciences.
+> Valverde S, Vidiella B, Spiridonov A, Bentley RA. The Cultural Macroevolution of Arcade Video Games: Innovation, Collaboration, and Collapse. Evolutionary Human Sciences. Published online 2025:1-26. doi:10.1017/ehs.2025.10015
